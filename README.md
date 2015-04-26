@@ -1,2 +1,2 @@
 # public
-public repository
+public repository for simple, quick exchanges
